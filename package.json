@@ -1,0 +1,30 @@
+{
+  "name": "sum-huukhoa1",
+  "version": "1.0.0",
+  "description": "Một thư viện giúp bạn tính tổng của 2 số bất kỳ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "are-arrays": "^1.0.0",
+    "are-objects": "^1.0.0",
+	"test-airdrop-khoa" : "^0.1.1",
+	"sum-huukhoa": "^1.0.3",
+	"sum-huukhoa1": "^1.0.3",
+	"tong-huukhoa": "^1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huukhoa1412/sum-huukhoa1.git"
+  },
+  "homepage": "https://x.com/lehuukhoa1308",
+  "keywords": [
+    "sum",
+    "add",
+    "tong",
+    "cong"
+  ],
+  "author": "Le Huu Khoa",
+  "license": "MIT"
+}
